@@ -26,8 +26,6 @@ site_description: >-
   让MySQL的备份、恢复更简单
 
 # Repository
-#repo_name: squidfunk/mkdocs-material
-#repo_url: https://github.com/squidfunk/mkdocs-material
 edit_uri: ""
 
 # Copyright
