@@ -23,7 +23,7 @@ site_name: Frabitech website
 site_url: https://www.frabitech.com/
 site_author: Blylei
 site_description: >-
-  让MySQL的备份、恢复更简单
+  Make MySQL backup && recovery management tasks much easier！！！
 
 # Repository
 edit_uri: ""
