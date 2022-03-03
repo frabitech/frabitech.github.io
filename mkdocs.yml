@@ -21,7 +21,7 @@
 # Project information
 site_name: Frabitech website
 site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_author: Blylei
 site_description: >-
   让MySQL的备份、恢复更简单
 
