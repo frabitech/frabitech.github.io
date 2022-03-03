@@ -1,4 +1,4 @@
 ---
 template: overrides/home.html
-title: 首页
+title: Frabitech
 ---
