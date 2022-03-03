@@ -19,7 +19,7 @@
 # IN THE SOFTWARE.
 
 # Language for theme localization
-language: en
+language: zh
 
 # Text direction (can be ltr or rtl), default: ltr
 direction:
@@ -33,10 +33,10 @@ features: []
 palette:
 
   # Primary color used for header, sidebar and links, default: indigo
-  primary:
+  primary: teal
 
   # Accent color for highlighting user interaction, default: indigo
-  accent:
+  accent: teal
 
 # Fonts used by Material, automatically loaded from Google Fonts - see the site
 # for a list of available fonts
